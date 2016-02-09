@@ -108,3 +108,26 @@ This has not been tested thoroughly with Python 3, and currently there is a bug 
 
 ### Please Star if you like this repository.
 I don't publish many repositories, but if you like this project, please star it, thanks.
+=======
+CMPUT404-project-socialdistribution
+===================================
+
+CMPUT404-project-socialdistribution
+
+See project.org (plain-text/org-mode) for a description of the project.
+
+Make a distributed social network!
+
+Contributors / Licensing
+========================
+
+Contributors:
+
+    Karim Baaba
+    Ali Sajedi
+    Kyle Richelhoff
+    Chris Pavlicek
+    Derek Dowling
+    Olexiy Berjanskii
+    Erin Torbiak
+    Abram Hindle
